@@ -1,0 +1,14 @@
+{
+  "name": "la-liga-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service-worker.js",
+  "dependencies": {
+    "web-push": "^3.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
